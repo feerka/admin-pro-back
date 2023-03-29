@@ -10,18 +10,14 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-<<<<<<< HEAD
     "bcryptjs": "^2.4.3",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
+    "express-fileupload": "^1.1.7-alpha.3",
     "express-validator": "^6.6.0",
     "jsonwebtoken": "^8.5.1",
-=======
-    "cors": "^2.8.5",
-    "dotenv": "^8.6.0",
-    "express": "^4.17.1",
->>>>>>> 34479fa30d37f93b981dc087c1668d310b928c9a
-    "mongoose": "^5.9.21"
+    "mongoose": "^5.9.21",
+    "uuid": "^8.2.0"
   }
 }
